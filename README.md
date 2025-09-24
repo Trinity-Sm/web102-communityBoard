@@ -32,11 +32,17 @@ The following **additional** features are implemented: N/Z
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src='https://cdn.loom.com/sessions/thumbnails/485c68acdcb942219f27cc85c37cd6be-ffb7ab1271c48c6a-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/485c68acdcb942219f27cc85c37cd6be">
+      <p>Web102-Community Board - 23 September 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/485c68acdcb942219f27cc85c37cd6be">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/485c68acdcb942219f27cc85c37cd6be-ffb7ab1271c48c6a-full-play.gif">
+    </a>
+  </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...   
+GIF created with ...  Loom 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
